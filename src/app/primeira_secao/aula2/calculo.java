@@ -1,4 +1,4 @@
-package app.aula2;
+package app.primeira_secao.aula2;
 
 public class calculo {
     public static void main(String[] args) {

@@ -1,7 +1,6 @@
-package app.aula1;
+package app.primeira_secao.aula1;
 
 import java.util.Locale;
-import java.util.spi.LocaleServiceProvider;
 
 public class teste1 {
     public static void main(String[] args) {

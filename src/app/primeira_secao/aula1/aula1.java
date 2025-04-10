@@ -1,4 +1,4 @@
-package app.aula1;
+package app.primeira_secao.aula1;
 
 import java.util.Locale;
 
